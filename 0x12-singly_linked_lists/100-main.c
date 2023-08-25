@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - check the code
+ *main 
  *
- * Return: Always 0.
  */
 int main(void)
 {
