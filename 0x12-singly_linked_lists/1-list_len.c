@@ -1,8 +1,11 @@
 #include "lists.h"
 
+
 /**
- * list_len 
- **/
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
 
 size_t list_len(const list_t *h)
 {
