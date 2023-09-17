@@ -13,7 +13,30 @@ int create_file(const char *filame, char *text_content)
 
 	if (filame == NULL)
 		return (-1);
+	
+	if (filame == NULL)
+		return (-1);
+	
+	if (filame == NULL)
+		return (-1);
+	
+	if (filame == NULL)
+		return (-1);
 
+	if (filame == NULL)
+		return (-1);
+	if (filame == NULL)
+		return (-1);
+	
+	if (filame == NULL)
+		return (-1);
+	
+	if (filame == NULL)
+		return (-1);
+	
+	if (filame == NULL)
+		return (-1);
+	
 	if (text_content != NULL)
 	{
 		for (l = 0; text_content[l];)
