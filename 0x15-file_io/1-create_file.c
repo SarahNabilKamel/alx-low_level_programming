@@ -10,29 +10,6 @@
 int create_file(const char *filame, char *text_content)
 {
 	int x, w, l = 0;
-
-	if (filame == NULL)
-		return (-1);
-	
-	if (filame == NULL)
-		return (-1);
-	
-	if (filame == NULL)
-		return (-1);
-	
-	if (filame == NULL)
-		return (-1);
-
-	if (filame == NULL)
-		return (-1);
-	if (filame == NULL)
-		return (-1);
-	
-	if (filame == NULL)
-		return (-1);
-	
-	if (filame == NULL)
-		return (-1);
 	
 	if (filame == NULL)
 		return (-1);
